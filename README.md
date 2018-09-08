@@ -1,7 +1,12 @@
 # Recording-small-expert
 
+![](https://github.com/CYHAI9/Recording-small-expert/blob/master/app.png)
+![](https://github.com/CYHAI9/Recording-small-expert/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-29%20at%2013.50.24.png)
 
+![](https://github.com/CYHAI9/Recording-small-expert/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-29%20at%2013.52.39.png)
+![](https://github.com/CYHAI9/Recording-small-expert/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-29%20at%2013.53.29.png)
 
+![](https://github.com/CYHAI9/Recording-small-expert/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-29%20at%2013.50.36.png)
 
 You can quickly start recording, recording the state of motion in the form of dynamic.
 Recording files need to give them a group and a title, so that you can find it better.
