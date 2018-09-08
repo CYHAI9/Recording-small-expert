@@ -17,6 +17,7 @@ Recording is a quicker way to record things than to use pen or typewriting.
 Contact information
 If you encounter problems during use, please contact us, you can leave a message under the blog or send an email to us.
 Our contact information:
+Contact: Mr. Chen
 Email： Cyhaie@163.com
 or
 QQ: 3069126500
